@@ -2,7 +2,7 @@
 Performance modpack for the minecraft server VICTORIA. Increases client FPS by double, almost triple depending on hardware.
 
 # Usage
-To use, simply extract the contents of mods into the mods folder in minecraft.
+To use, simply extract the contents of mods into the mods folder in minecraft. Alternatively, you can download from the release page, and extract the contents of the zip archive directly on your mods folder.
 
 ### Windows
 %appdata% -> .minecraft -> mods
